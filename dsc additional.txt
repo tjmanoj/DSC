@@ -1,7 +1,16 @@
-https://colab.research.google.com/drive/1HOVx22Y8UQF289dWSx5IKI3OWd9DXjl5?usp=sharing
+Numpy
 
-https://colab.research.google.com/drive/1bcuv-QAX9rNf5LGlfP5dh3c65yts9TAl?usp=sharing
+https://colab.research.google.com/drive/1uW4qruwpzDljEK6iqv92xH0HfvQzXqQb?usp=sharing#scrollTo=12uMzn1-PQGa
+
+https://colab.research.google.com/drive/1uW4qruwpzDljEK6iqv92xH0HfvQzXqQb?usp=sharing#scrollTo=12uMzn1-PQGa
+
+https://colab.research.google.com/drive/1L8VnOpXy6Sm4rw_Njni5_vBCDN99eTAN?usp=sharing
 
 https://colab.research.google.com/drive/1pfR2o_WvJ0vs8N7B1ZtAafbVFweAUuSy?usp=sharing
 
-https://colab.research.google.com/drive/1mVE5NcK0PBGajbfOQXb22EysW847Ju8d?usp=sharing
+
+Pandas
+
+https://colab.research.google.com/drive/1bcuv-QAX9rNf5LGlfP5dh3c65yts9TAl?usp=sharing
+
+https://colab.research.google.com/drive/1bnQiAWiOZS-MTpf_3RMbz9YhUXX_d2fS?usp=sharing#scrollTo=rP0GFxl1X3K2
